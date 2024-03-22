@@ -2,8 +2,8 @@
 This is a collaboration for KNN Classifier uisng 3 different distance measures in the Supervised Learning course in FCAI-CU.
 
 ## Authors
-- Roaa Fathi Nada                 20210140
-- Selsabeel Asim Ali Elbagir      20210714
+- [Roaa Fathi](https://github.com/rFathi03)
+- [Selsabeel](https://github.com/SelsabeelA)
 
 ## Assignment Requirments
 - Load the iris data set, Set the names of columns according to the column definitions.
